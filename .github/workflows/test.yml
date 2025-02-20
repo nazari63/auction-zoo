@@ -1,3 +1,4 @@
+// Minor update: Comment added for GitHub contributions
 name: Foundry tests
 
 on: [push]
